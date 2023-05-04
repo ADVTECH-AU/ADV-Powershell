@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".3g2" ProgId="VLC.3g2.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".3gp" ProgId="VLC.3gp.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".3gp2" ProgId="VLC.3gp2.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".3gpp" ProgId="VLC.3gpp.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".aac" ProgId="VLC.aac.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".ac3" ProgId="VLC.ac3.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".adt" ProgId="VLC.adt.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".adts" ProgId="VLC.adts.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".amr" ProgId="VLC.amr.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".avi" ProgId="VLC.avi.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".flac" ProgId="VLC.flac.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".m2t" ProgId="VLC.m2t.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".m2ts" ProgId="VLC.m2ts.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".m3u" ProgId="VLC.m3u.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".m4a" ProgId="VLC.m4a.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".m4v" ProgId="VLC.m4v.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".mka" ProgId="VLC.mka.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".mkv" ProgId="VLC.mkv.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".mod" ProgId="VLC.mod.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".mov" ProgId="VLC.mov.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".MP2" ProgId="VLC.mp2.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".mp3" ProgId="VLC.mp3.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".mp4" ProgId="VLC.mp4.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".mp4v" ProgId="VLC.mp4v.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".mpa" ProgId="VLC.mpa.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".MPE" ProgId="VLC.mpe.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".mpeg" ProgId="VLC.mpeg.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".mpg" ProgId="VLC.mpg.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".mpv2" ProgId="VLC.mpv2.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".oga" ProgId="VLC.oga.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".ogg" ProgId="VLC.ogg.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".ogm" ProgId="VLC.ogm.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".ogv" ProgId="VLC.ogv.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".ogx" ProgId="VLC.ogx.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".pdf" ProgId="Acrobat.Document.DC" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".tod" ProgId="VLC.tod.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".TS" ProgId="VLC.ts.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".TTS" ProgId="VLC.tts.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".wav" ProgId="VLC.wav.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".webm" ProgId="VLC.webm.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".wma" ProgId="VLC.wma.Document" ApplicationName="VLC media player" />
+  <Association Identifier=".wmv" ProgId="VLC.wmv.Document" ApplicationName="VLC media player" />
+  <Association Identifier="mailto" ProgId="Outlook.URL.mailto.15" ApplicationName="Outlook" />
+</DefaultAssociations>

@@ -1,0 +1,1 @@
+user.assignedPlans -any (assignedPlan.servicePlanId -eq "8e9ff0ff-aa7a-4b20-83c1-2f636b600ac2" -and assignedPlan.capabilityStatus -eq "Enabled")
